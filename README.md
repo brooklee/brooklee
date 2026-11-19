@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Boot.dev completions
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://api.boot.dev/v1/static/certificate/91124c32-f11d-402b-ac3d-6a800bf86139)](https://www.boot.dev/certificates/91124c32-f11d-402b-ac3d-6a800bf86139)
+[![Boot.dev Learn Git certificate](https://api.boot.dev/v1/static/certificate/f0e44052-cae5-4960-ad16-2d7e7f536877)](https://www.boot.dev/certificates/f0e44052-cae5-4960-ad16-2d7e7f536877)
+[![Boot.dev Learn Linux certificate](https://api.boot.dev/v1/static/certificate/6ead458c-5dd6-4a1a-bf66-eccbc02a59bb)](https://www.boot.dev/certificates/6ead458c-5dd6-4a1a-bf66-eccbc02a59bb)
+[![Boot.dev Introduction to Python Course certificate](https://api.boot.dev/v1/static/certificate/609b64de-352e-4c9b-b21e-d168e1685ae3)](https://www.boot.dev/certificates/609b64de-352e-4c9b-b21e-d168e1685ae3)
+[![Boot.dev Learn JavaScript certificate](https://api.boot.dev/v1/static/certificate/c53d7ca3-1b53-4e62-9574-1aa2677b72be)](https://www.boot.dev/certificates/c53d7ca3-1b53-4e62-9574-1aa2677b72be)
